@@ -37,9 +37,3 @@ p {
 button {
   margin: 20px;
 }
-
-#verify,
-#reset,
-#para {
-  display: none;
-}
